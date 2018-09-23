@@ -107,5 +107,5 @@ venv.bak/
 ./youkuSpider/build/
 ./youkuSpider/project.egg-info/
 ./youkuSpider/setup.py
-./.idea/
+.idea/
 
